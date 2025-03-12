@@ -9,7 +9,7 @@ env:
   LOCATION: centralindia
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 63e9bdfc-55cc-4255-8c31-6e9349203b05
-  WEBAPP-NAME: devops-webapp-eastus-197295684
+  WEBAPP-NAME: devops-webapp-eastus-589129038
 
 
 jobs:
